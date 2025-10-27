@@ -12,6 +12,7 @@ public class CountDigitInNumber {
 
         }
         System.out.println("The count of number "+temp+" is "+digit);
+        sc.close();
     }
     
 }

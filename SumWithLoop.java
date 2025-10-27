@@ -14,6 +14,6 @@ public class SumWithLoop {
         }
         System.out.println("Sum of "+original+" is "+sum);
         
-        
+       sc.close(); 
     }
 }

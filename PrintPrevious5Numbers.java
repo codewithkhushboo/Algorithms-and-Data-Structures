@@ -6,7 +6,7 @@ public class PrintPrevious5Numbers {
         int number=sc.nextInt();
         int count=0;
         System.out.print("Previous 5 numbers are:");
-        while(count<5){
+        while(count<=5){
             number--;
             System.out.print(number+" ");
             count++;

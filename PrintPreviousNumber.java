@@ -7,8 +7,9 @@ public class PrintPreviousNumber
         Scanner sc=new Scanner(System.in);
         int number=sc.nextInt();
         int count=1;
+        //int count=0;
         while(count<=number)
-        {
+        {   //count++;
             int previousnumber=number-count;
             System.out.print(previousnumber+" ");
             count++;

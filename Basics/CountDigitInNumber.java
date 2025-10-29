@@ -1,3 +1,4 @@
+//package Basics;
 import java.util.Scanner;
 public class CountDigitInNumber {
     public static void main(String[] args) {

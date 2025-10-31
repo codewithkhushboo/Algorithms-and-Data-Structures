@@ -1,3 +1,10 @@
+/*
+ * 1
+ * 23
+ * 456
+ * 78910
+ * 1112131415
+ */
 public class Floydstraingle {
     public static void main(String[] args) {
         int number=1;

@@ -1,5 +1,11 @@
 //package pattern;
-
+/*
+ * *
+ * **
+ * ***
+ * ****
+ * *****
+ */
 
 public class FourbyFivePattern {
     public static void main(String[] args) {

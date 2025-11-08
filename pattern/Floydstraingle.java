@@ -1,9 +1,9 @@
 /*
  * 1
- * 23
- * 456
- * 78910
- * 1112131415
+ * 2 3
+ * 4 5 6
+ * 7 8 9 10
+ * 11 12 13 14 15
  */
 public class Floydstraingle {
     public static void main(String[] args) {
